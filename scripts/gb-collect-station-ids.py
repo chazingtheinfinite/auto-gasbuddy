@@ -7,7 +7,7 @@ Append results to file iteratively for restarts.
 
 """
 import requests
-import os
+import os, sys
 import random
 import string
 from time import sleep
@@ -21,18 +21,37 @@ OUT_FILE   = '../data/station-coords/gb-coords.csv'
 SLEEP      = 3
 VERBOSE    = True
 
+# Selenium Class Element Identifiers
+name_sel  = 'header__header2___1p5Ig header__header___1zII0 header__evergreen___2DD39 header__snug___lRSNK StationInfoBox__header___2cjCS' # The parent of Station Name
+addr_sel  = 'StationInfoBox__ellipsisNoWrap___1-lh5'
+tel_sel   = 'StationInfoBox__phoneLink___2LtAk'
+gas_sel   = 'text__xl___2MXGo text__bold___1C6Z_ text__left___1iOw3 FuelTypePriceDisplay__price___3iizb'
+
 def selenium_based_check(url):
-	DRIVER     = webdriver.Chrome()
-	DRIVER.get(url)
-	html_source = DRIVER.page_source
-	result = None
+	driver = webdriver.Chrome()
+	driver.get(url)
+	html_source = driver.page_source
+
+	#	 [T/F, 'Name', 'Address', 'Tel.', 'Reg.$', 'Mid.$', 'Pre.$', 'Die.$']
+	result = [False, '', '', '', '', '', '', ''] 
 	if 'Oops...' in html_source: 
-		print('Fail')
-		result = False
+		if VERBOSE: print('Fail')
 	else: 
-		print('Exists!')
-		result = True
-	DRIVER.quit()
+		if VERBOSE: print('Exists!')
+
+		# Extract Station Name, Address, Phone Number, Reg/Mid/Pre Price
+		station_name = driver.find_elements_by_xpath("//h2[contains(@class,'{}')]/span".format(name_sel))[0].text # Get the first child only...
+
+		station_addr = driver.find_elements_by_xpath("//div[contains(@class,'{}')]/span/span".format(addr_sel))[0].text.replace(',', ' ') + ' ' + driver.find_elements_by_xpath("//div[contains(@class,'{}')]/span/span".format(addr_sel))[2].text.replace(',', ' ')
+		station_tel  = driver.find_elements_by_xpath("//a[contains(@class,'{}')]".format(tel_sel))[0].text.replace(',', ' ') 
+
+		station_gas = [x.text.encode('ascii', 'ignore') for x in driver.find_elements_by_xpath("//span[contains(@class,'{}')]".format(gas_sel))]
+		while len(station_gas) < 4: station_gas.append('NA')
+
+		# Need to use latin1 decoding to deal with cent symbols in some Canadian gas pricings...
+		if VERBOSE: print('Station Name: {}\nStation Addr: {}\nStation Tel: {}\nStationn Prices: {}'.format(station_name, station_addr, station_tel, ','.join(station_gas)))
+		result = [True, station_name, station_addr, station_tel] +  station_gas
+	driver.quit()
 	return result
 
 # Set current id; jump ahead if some already processed...
@@ -49,7 +68,9 @@ while cur_id <= LAST_ID:
 	#sleep(SLEEP)
 
 	# Make the query adn save to file if station nexists...
-	if selenium_based_check(query): 
+	query_results = selenium_based_check(query)
+	if query_results[0]: 
+		station_data = [str(cur_id), query] + query_results[1:]
 		f = open(OUT_FILE, 'a')
-		f.write("{},{}\n".format(cur_id, query))
+		f.write("{}\n".format(','.join(station_data)))
 		f.close()
