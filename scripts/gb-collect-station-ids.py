@@ -17,7 +17,7 @@ BASE_QUERY = 'https://www.gasbuddy.com/Station/'
 LAST_ID    = 1000000
 OUT_FILE   = '../data/station-coords/gb-coords.csv'
 SLEEP      = 3
-VERBOSE    = False
+VERBOSE    = True
 HEADLESS   = True
 
 # Selenium Class Element Identifiers
@@ -59,21 +59,21 @@ def selenium_based_check(url):
 		if VERBOSE: print('Fail')
 	else: 
 		if VERBOSE: print('Exists!')
+                # Extract Station Name, Address, Phone Number, Reg/Mid/Pre Price
+	        station_name = driver.find_elements_by_xpath("//h2[contains(@class,'{}')]/span".format(name_sel))[0].text # Get the first child only...
 
-		# Extract Station Name, Address, Phone Number, Reg/Mid/Pre Price
-		station_name = driver.find_elements_by_xpath("//h2[contains(@class,'{}')]/span".format(name_sel))[0].text # Get the first child only...
+	        station_addr = driver.find_elements_by_xpath("//div[contains(@class,'{}')]/span/span".format(addr_sel))[0].text.replace(',', ' ') + ' ' + driver.find_elements_by_xpath("//div[contains(@class,'{}')]/span/span".format(addr_sel))[2].text.replace(',', ' ')
+	        station_tel  = driver.find_elements_by_xpath("//a[contains(@class,'{}')]".format(tel_sel))[0].text.replace(',', ' ') 
 
-		station_addr = driver.find_elements_by_xpath("//div[contains(@class,'{}')]/span/span".format(addr_sel))[0].text.replace(',', ' ') + ' ' + driver.find_elements_by_xpath("//div[contains(@class,'{}')]/span/span".format(addr_sel))[2].text.replace(',', ' ')
-		station_tel  = driver.find_elements_by_xpath("//a[contains(@class,'{}')]".format(tel_sel))[0].text.replace(',', ' ') 
+	        station_gas = [x.text.encode('ascii', 'ignore') for x in driver.find_elements_by_xpath("//span[contains(@class,'{}')]".format(gas_sel))]
+	        while len(station_gas) < 4: station_gas.append('NA')
 
-		station_gas = [x.text.encode('ascii', 'ignore') for x in driver.find_elements_by_xpath("//span[contains(@class,'{}')]".format(gas_sel))]
-		while len(station_gas) < 4: station_gas.append('NA')
-
-		# Need to use latin1 decoding to deal with cent symbols in some Canadian gas pricings...
-		if VERBOSE: print('Station Name: {}\nStation Addr: {}\nStation Tel: {}\nStationn Prices: {}'.format(station_name, station_addr, station_tel, ','.join(station_gas)))
-		result = [True, station_name, station_addr, station_tel] +  station_gas
+	        # Need to use latin1 decoding to deal with cent symbols in some Canadian gas pricings...
+	        if VERBOSE: print('Station Name: {}\nStation Addr: {}\nStation Tel: {}\nStationn Prices: {}'.format(station_name, station_addr, station_tel, ','.join(station_gas)))
+	        result = [True, station_name, station_addr, station_tel] +  station_gas                        
 	driver.quit()
-	return result
+
+        return result
 
 # Set current id; jump ahead if some already processed...
 cur_id = 0
@@ -81,6 +81,7 @@ if os.path.exists(OUT_FILE):
 	cur_id = int(open(OUT_FILE, 'r').readlines()[-1].split(',')[0])
 else:
 	os.system('touch {}'.format(OUT_FILE))
+
 
 while cur_id <= LAST_ID:
 	cur_id += 1
