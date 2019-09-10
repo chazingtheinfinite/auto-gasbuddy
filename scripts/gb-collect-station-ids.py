@@ -12,14 +12,13 @@ import random
 import string
 from time import sleep
 from selenium import webdriver
-from selenium import webdriver
-
 
 BASE_QUERY = 'https://www.gasbuddy.com/Station/'
 LAST_ID    = 1000000
 OUT_FILE   = '../data/station-coords/gb-coords.csv'
 SLEEP      = 3
-VERBOSE    = True
+VERBOSE    = False
+HEADLESS   = True
 
 # Selenium Class Element Identifiers
 name_sel  = 'header__header2___1p5Ig header__header___1zII0 header__evergreen___2DD39 header__snug___lRSNK StationInfoBox__header___2cjCS' # The parent of Station Name
@@ -28,8 +27,30 @@ tel_sel   = 'StationInfoBox__phoneLink___2LtAk'
 gas_sel   = 'text__xl___2MXGo text__bold___1C6Z_ text__left___1iOw3 FuelTypePriceDisplay__price___3iizb'
 
 def selenium_based_check(url):
-	driver = webdriver.Chrome()
-	driver.get(url)
+        """ selenium_based_check
+            Input:  <str> url, iterated GB station website
+            Output: <list>, [0] <bool> if page exists
+                            [1] <int> station id
+                            [2] <str> station webpage
+                            [3] <str> station name
+                            [4] <str> station address
+                            [5] <str> station telephone number
+                            [6] <str> regular gas price
+                            [7] <str> midrange gas price
+                            [8] <str> premium gas price
+                            [9] <str> diesel gas price
+        """
+        # Setup the ChromeDriver depending on the context...
+        driver = None
+        if HEADLESS: # Used with dna-26
+            options = webdriver.ChromeOptions()
+            options.binary_location = '/usr/bin/google-chrome'
+            options.add_argument('headless')
+            driver = webdriver.Chrome('../drivers/chromedriver', chrome_options=options) 
+        else: driver = webdriver.Chrome() # MacOS
+
+        # Begin the query...
+        driver.get(url)
 	html_source = driver.page_source
 
 	#	 [T/F, 'Name', 'Address', 'Tel.', 'Reg.$', 'Mid.$', 'Pre.$', 'Die.$']
