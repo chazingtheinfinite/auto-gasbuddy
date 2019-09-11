@@ -18,7 +18,7 @@ LAST_ID    = 1000000
 OUT_FILE   = '../data/station-coords/gb-coords.csv'
 SLEEP      = 3
 VERBOSE    = True
-HEADLESS   = True
+HEADLESS   = False
 
 # Selenium Class Element Identifiers
 name_sel  = 'header__header2___1p5Ig header__header___1zII0 header__evergreen___2DD39 header__snug___lRSNK StationInfoBox__header___2cjCS' # The parent of Station Name
