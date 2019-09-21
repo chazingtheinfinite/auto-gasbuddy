@@ -36,7 +36,7 @@ def selenium_based_check(url):
         # extract station name and address
         for i in range(station_count):
             station_name = addr_list[(3*i)].split(":")[1].strip()
-            station_addr = addr_list[(3*i+1)]
+            station_addr = addr_list[(3*i+1)].replace(",", " ")
             res.append(station_name + "," + station_addr)
     driver.quit()
 
