@@ -1,0 +1,689 @@
+address,lat,lon,failed
+99 Commissioners Rd W London  ON ,42.9568655333333,-81.2629704666667,False
+1253 Wellington Rd S London  ON ,42.92616775,-81.2179794226376,False
+491 Oxford St W London  ON ,42.9853705,-81.2878533,False
+1175 Wonderland Rd N London  ON ,43.003933,-81.303073,False
+1085 Commissioners Rd E London  ON ,42.9614511,-81.2002358,False
+1300 S Main St Greensburg  PA ,40.3035048,-79.5446217,False
+3085 Pittsburgh Rd Star Junction  PA ,,,True
+5004 Fairview Downers Grove  IL ,41.796584,-87.994851,False
+9138 S Cicero Ave Oak Lawn  IL ,41.7262476486405,-87.7411143643714,False
+7933 W 95th St Hickory Hills  IL ,41.718495,-87.816518,False
+25199 Lorain Rd North Olmsted  OH ,41.4239880204082,-81.9007915306123,False
+391 Main St St Peters  MO ,38.80132045,-90.6225021344238,False
+12218 Saint Charles Rock Rd Bridgeton  MO ,38.7513062656558,-90.4266507129008,False
+800 W Maple St New Lenox  IL ,41.5143451,-87.9700798,False
+4 W Irving Park Rd Bensenville  IL ,41.9608302159916,-87.9397932262947,False
+3700 Hubbell Ave Des Moines  IA ,41.629115,-93.544797,False
+4600 Merle Hay Rd Urbandale  IA ,41.64449685,-93.6987312094087,False
+340 W St Charles Rd Villa Park  IL ,41.8898492527284,-87.9879615893307,False
+1 W St Charles Rd Villa Park  IL ,41.889656,-87.980949,False
+1 E St Charles Rd Villa Park  IL ,41.889655,-87.978972,False
+401 E St Charles Rd Villa Park  IL ,41.889955,-87.969007,False
+1801 Monroe Ave Grand Rapids  MI ,,,True
+19855 S LaGrange Rd (US-45) Mokena  IL ,,,True
+15301 S Harlem Ave Chicago  IL ,41.7873378,-87.8013278,False
+13740 S Cicero Ave Crestwood  IL ,,,True
+6798 W 159th St Oak Forest  IL ,41.6026507,-87.7714743,False
+2428 Hubbell Ave Des Moines  IA ,41.606090723042,-93.5722053337504,False
+2945 E University Ave Des Moines  IA ,41.6004664,-93.5596252,False
+2300 E 14th St Des Moines  IA ,41.615109,-93.600667,False
+4700 E Palm Valley Blvd Round Rock  TX ,,,True
+7101 NW 23rd St Bethany  OK ,35.493454,-97.636814,False
+4705 S Calumet Ave Hammond  IN ,,,True
+4717 W 61st Ave Hobart  IN ,41.5072269306706,-87.3151764636873,False
+4733 W 61st Ave Hobart  IN ,41.5072258176596,-87.3150126655751,False
+4732 W 61st Ave Hobart  IN ,41.5073898222155,-87.3150113360528,False
+811 W 37th Ave Hobart  IN ,41.5508056555184,-87.2707065953177,False
+909 E Roosevelt Rd Lombard  IL ,41.8602001,-87.9949099865942,False
+201 W Bridge St Dublin  OH ,40.099125,-83.118929,False
+5531 28th St SE Cascade  MI ,42.915969,-85.5320521412555,False
+4802 Caton Farm Rd Joliet  IL ,41.5627327083404,-88.3519264496359,False
+800 Brook Forest Ave Shorewood  IL ,41.5371118324614,-88.1991455958546,False
+14298 Ladue Rd Chesterfield  MO ,38.664733,-90.517823,False
+2155 Cubit St Eugene  OR ,44.0854451444444,-123.167989272222,False
+7201 W 183rd St Tinley Park  IL ,41.558456,-87.792956,False
+98 Murtland Ave Washington  PA ,40.180265,-80.235977,False
+7323 N Lindbergh Blvd Hazelwood  MO ,38.7837784340409,-90.3554556782786,False
+10845 Lilac Ave Bellefontaine Neighbors  MO ,38.7641136246991,-90.2038465694008,False
+654 W North Ave Elmhurst  IL ,41.9057193,-87.9635234,False
+301 W Maple St New Lenox  IL ,41.515348,-87.972798,False
+3091 Pittsburgh Rd Star Junction  PA ,,,True
+1160 W Jefferson St Joliet  IL ,41.5229907083333,-88.109509625,False
+1499 S Belcher Rd Clearwater  FL ,27.947771,-82.745933,False
+8601 Mexico Rd O'Fallon  MO ,38.791697,-90.6996902070652,False
+18423 Olive St Rd Chesterfield  MO ,38.671306,-90.654189,False
+4750 CR-K O'Fallon  MO ,,,True
+17287 Wild Horse Creek Rd Chesterfield  MO ,38.6574706798729,-90.617919981536,False
+2988 Walker Ave NW Walker  MI ,43.0181395206471,-85.7247625598309,False
+801 5th St Modesto  CA ,37.635009,-121.002887,False
+1401 Coffee Rd Modesto  CA ,37.663657,-120.975771,False
+1424 Coffee Rd Modesto  CA ,37.6640429516941,-120.975577986678,False
+1606 Sisk Rd Modesto  CA ,37.6681440045921,-121.034336243168,False
+2301 Fulkerth Rd Turlock  CA ,37.5073510150754,-120.872650246231,False
+1230 Crows Landing Rd Modesto  CA ,37.61204,-120.993548,False
+1801 Standiford Ave Modesto  CA ,37.6895499129062,-121.024497843169,False
+100 W Geneva Rd Wheaton  IL ,41.8880449,-88.1107687,False
+1605 N Cunningham Ave Urbana  IL ,40.1275964485019,-88.1994088202527,False
+1621 W Jefferson St Joliet  IL ,41.522798,-88.121304,False
+1600 S Chicago Rd Joliet  IL ,41.553805,-88.3282227,False
+3950 W 147th St Midlothian  IL ,,,True
+19730 S Harlem Ave Frankfort  IL ,41.4412674,-87.7869167,False
+2100 University Dr Auburn Hills  MI ,42.660823,-83.248017,False
+2050 Leonard St Grand Rapids  MI ,,,True
+2750 Lake Michigan Dr NW Grand Rapids  MI ,42.9716865,-85.7362895,False
+5548 W 159th St Oak Forest  IL ,41.6030351795649,-87.7535759289892,False
+10258 S Kedzie Ave Evergreen Park  IL ,41.7065628528433,-87.7014539161923,False
+3333 W 11th Ave Eugene  OR ,44.0480600121502,-123.142541976065,False
+2690 Prairie Rd Eugene  OR ,44.1030181006052,-123.162623928869,False
+1048 N OR-99 W McMinnville  OR ,,,True
+2005 SW OR-99W McMinnville  OR ,45.19402485,-123.210573624847,False
+5350 Tuttle Crossing Blvd Dublin  OH ,40.0756644,-83.1416638,False
+6695 Perimeter Loop Dublin  OH ,,,True
+5340 Tuttle Crossing Blvd Dublin  OH ,40.0746678,-83.1452845,False
+14002 S Cicero Ave Crestwood  IL ,,,True
+16702 S Cicero Ave Oak Forest  IL ,,,True
+6250 Howdershell Rd Hazelwood  MO ,38.7835546897158,-90.3793563207684,False
+1401 S 5th St St Charles  MO ,41.898804114094,-88.3171766375839,False
+2455 South St Elgin  IL ,42.02511265,-88.336895525,False
+6025 Howdershell Rd Hazelwood  MO ,38.7827463961578,-90.3822238027419,False
+4000 W 147th St Midlothian  IL ,,,True
+15857 S Crawford Ave Markham  IL ,,,True
+3255 Central Rd Glenview  IL ,42.065699470801,-87.8393010180839,False
+22305 S Center Rd Frankfort  IL ,41.298568,-83.3589,False
+7000 S Kingery Hwy Willowbrook  IL ,,,True
+19100 S LaGrange Rd Mokena  IL ,,,True
+16649 S Kedzie Ave Markham  IL ,,,True
+3040 W 95th St Evergreen Park  IL ,41.7208526309059,-87.6983292657186,False
+5201 W 111th St Alsip  IL ,41.6908328,-87.7432407,False
+5600 159th St Oak Forest  IL ,,,True
+15229 S Cicero Ave Oak Forest  IL ,,,True
+5347 W 159th St Oak Forest  IL ,41.6029559269448,-87.7503038624587,False
+15100 S Cicero Ave Oak Forest  IL ,,,True
+8759 W 95th St Hickory Hills  IL ,41.718130226339,-87.8364759179907,False
+2635 W 87th St Evergreen Park  IL ,41.7353357749759,-87.6889480019268,False
+10259 S Cicero Ave Oak Lawn  IL ,41.7146352,-87.7405923,False
+7700 W 95th St Hickory Hills  IL ,41.718767,-87.810818,False
+8801 W 79th St Justice  IL ,41.7474377,-87.8308678,False
+2310 York Rd Elk Grove  IL ,,,True
+22310 S Lagrange Rd Frankfort  IL ,,,True
+1600 Nerge Rd Elk Grove  IL ,,,True
+1195 S Rohlwing Rd Elk Grove  IL ,,,True
+8 E Higgins Rd Elk Grove  IL ,,,True
+1 E Higgins Rd Elk Grove  IL ,,,True
+631 Roosevelt Rd Glen Ellyn  IL ,,,True
+444 W 22nd St Lombard  IL ,41.8450012,-88.02591305,False
+250 E Roosevelt Rd Villa Park  IL ,41.8604912,-87.9861495,False
+7900 S Cicero Ave Burbank  IL ,41.7420249,-87.7411084,False
+5550 W 79th St Burbank  IL ,,,True
+17W619 Roosevelt Rd Oakbrook Terrace  IL ,,,True
+2210 W 22nd St Oak Brook  IL ,41.8463109795918,-87.9725979591837,False
+1188 W Foster Ave Bensenville  IL ,,,True
+550 N IL-83 Bensenville  IL ,41.971692,-87.959242,False
+600 N IL-83 Bensenville  IL ,,,True
+600 W Irving Park Rd Bensenville  IL ,41.960862,-87.9461997671233,False
+1156 S York Rd Bensenville  IL ,41.9330917683164,-87.9397553819361,False
+1225 E Devon Ave Bensenville  IL ,,,True
+4243 Baldwin Rd Auburn Hills  MI ,42.701311225,-83.306451325,False
+810 N Opdyke Rd Auburn Hills  MI ,42.6803655,-83.2460529,False
+800 Brown Rd Auburn Hills  MI ,42.70567825,-83.2871577727847,False
+2105 Hampton Ave St Louis  MO ,38.6173219988696,-90.2874390996609,False
+2999 CR-K O'Fallon  MO ,,,True
+8231 Columbia Rd Olmsted Falls  OH ,41.3721316666667,-81.9017878333333,False
+2202 Broadview Rd Cleveland  OH ,41.4385844,-81.699748,False
+922 N Delaware St Indianapolis  IN ,39.779436,-86.15409925,False
+747 Leonard St NW Grand Rapids  MI ,42.9856269,-85.6874946839206,False
+805 S Mitchell St Cadillac  MI ,44.2438888888889,-85.3963620555556,False
+1965 Fuller Ave NE Grand Rapids  MI ,42.9983348243243,-85.6400066216216,False
+1605 N Shadeland Ave Indianapolis  IN ,39.7885939,-86.0454335,False
+2555 Monroe Ave Brighton  NY ,43.116375,-77.553748,False
+23385 Lorain Rd North Olmsted  OH ,41.4343706231192,-81.880147665348,False
+24662 Lorain Rd North Olmsted  OH ,41.4264924812834,-81.8952688181818,False
+6198 Allisonville Rd Indianapolis  IN ,39.9269205,-86.0661697,False
+1005 N Mitthoeffer Rd Indianapolis  IN ,39.8336555,-85.9911771,False
+1340 W 86th St Indianapolis  IN ,,,True
+307 Hartford Tpke Shrewsbury  MA ,42.277026,-71.676454,False
+100 E Main St Monongahela  PA ,40.199776,-79.922153,False
+400 NW Frontage Rd Troutdale  OR ,45.54361425,-122.391744434838,False
+7200 Sawmill Rd Columbus  OH ,40.112462,-83.090574,False
+215 W Bridge St Dublin  OH ,40.0991109333333,-83.1200081333333,False
+9760 Sawmill Pkwy Powell  OH ,40.1818019,-83.0972092,False
+7310 Sawmill Rd Columbus  OH ,40.1144801567323,-83.0904557469357,False
+10215 Sawmill Pkwy Powell  OH ,40.1818019,-83.0972092,False
+3975 Powell Rd Powell  OH ,39.835909036139,-84.1605466397716,False
+23696 Center Ridge Rd Westlake  OH ,41.4486978,-81.9240699,False
+5329 Center Rd Brunswick  OH ,41.2379856464647,-81.8742696565657,False
+2155 Pearl Rd Brunswick  OH ,41.2163,-81.841411,False
+15 Pearl Rd Brunswick  OH ,41.27515,-81.8360687272727,False
+2815 University Dr Auburn Hills  MI ,42.6693802408346,-83.2346921241983,False
+9665 Sawmill Rd Powell  OH ,40.1580084408628,-83.0883161635633,False
+32390 Lorain Rd North Ridgeville  OH ,41.3856999521146,-81.9764662267316,False
+23370 Lorain Rd North Olmsted  OH ,41.4346314205227,-81.8800336393738,False
+8501 Mayfield Rd Chesterland  OH ,41.5224483,-81.3649104,False
+8247 Mayfield Rd Chesterland  OH ,41.5224483,-81.3649104,False
+8500 Mayfield Rd Chesterland  OH ,41.5224483,-81.3649104,False
+8202 Allisonville Rd Indianapolis  IN ,39.9269205,-86.0661697,False
+3554 W North Ave Chicago  IL ,41.91042735,-87.7161345211275,False
+25295 Lorain Rd North Olmsted  OH ,41.42344864,-81.9020832,False
+30812 Detroit Rd Westlake  OH ,41.4610039344262,-81.9608616721311,False
+26516 Lorain Rd North Olmsted  OH ,41.418992,-81.915361,False
+2400 MO-109 Wildwood  MO ,38.577601,-90.644512,False
+10500 Natural Bridge Rd Edmundson  MO ,38.738469,-90.364113,False
+6800 N Hanley Rd Berkeley  MO ,38.762768,-90.33686,False
+1466 Baldwin Ave Pontiac  MI ,42.6783519740783,-83.3005962991359,False
+350 W Chicago Ave Chicago  IL ,41.8968052,-87.6377642248503,False
+1160 W Diversey Pkwy Chicago  IL ,41.9323671669539,-87.6573294037867,False
+9390 171st St Orland Hills  IL ,41.5798416,-87.8324749,False
+900 E University Ave Des Moines  IA ,41.600673,-93.62949,False
+2221 E Euclid Ave Des Moines  IA ,41.627746,-93.6441640633601,False
+4900 S Baldwin Rd Lake Orion  MI ,,,True
+400 Brown Rd Auburn Hills  MI ,42.7082094117647,-83.2614592941177,False
+200 N Opdyke Rd Auburn Hills  MI ,42.6803655,-83.2460529,False
+344 Clairton Blvd Jefferson Hills  PA ,40.3127796351351,-79.9386109324324,False
+3617 Ashley Phosphate Rd North Charleston  SC ,32.9268000949367,-80.079721556962,False
+1520 Shawson Dr Mississauga  ON ,43.6525666,-79.6435187,False
+2400 E Bay Dr Largo  FL ,27.9165253,-82.7680064,False
+14800 Manchester Rd Ballwin  MO ,38.5922939,-90.5385345622148,False
+1350 Larpenteur Ave W Falcon Heights  MN ,44.9917532413793,-93.1571123103448,False
+5150 Center St Omaha  NE ,41.2415,-95.965549,False
+1430 Joslyn Ave Pontiac  MI ,42.6780887174509,-83.280694,False
+1500 S Opdyke Rd Pontiac  MI ,42.6182324422861,-83.2486204192941,False
+3500 Joslyn Rd Auburn Hills  MI ,42.7071109,-83.2853715,False
+4350 Joslyn Rd Auburn Hills  MI ,42.7071109,-83.2853715,False
+300 MO-109 Wildwood  MO ,38.639455,-90.670262,False
+2401 MO-109 Wildwood  MO ,38.582806,-90.643396,False
+17195 Chesterfield Airport Rd Chesterfield  MO ,38.6732255,-90.6552449,False
+110 Long Rd Chesterfield  MO ,38.665910517106,-90.6176251407345,False
+8566 St Charles Rock Rd Charlack  MO ,38.7090133,-90.3472156,False
+7103 N Keystone Ave Indianapolis  IN ,39.809747,-86.121592,False
+2615 N Emerson Ave Indianapolis  IN ,39.8227953,-86.0836678,False
+7339 Pendleton Pike Indianapolis  IN ,39.8304176,-86.0392518,False
+3750 E Fall Creek Pkwy Indianapolis  IN ,39.8050894,-86.1547938,False
+6741 E 82nd St Indianapolis  IN ,,,True
+5415 E 65th St Indianapolis  IN ,,,True
+949 Grafton St Worcester  MA ,42.2467194,-71.7602348,False
+400 Leonard St NW Grand Rapids  MI ,42.984823,-85.67836,False
+1831 E Grand River Ave East Lansing  MI ,42.728048,-84.457481,False
+1533 Leonard St NE Grand Rapids  MI ,42.9845231714286,-85.6310681428571,False
+1205 Michigan St NE Grand Rapids  MI ,42.9700617780422,-85.6394466774666,False
+1 Elm St Millbury  MA ,42.1928163,-71.7565237288095,False
+54 Canal St Millbury  MA ,42.1928099,-71.7556530574847,False
+5990 E 71st St Indianapolis  IN ,,,True
+4960 E 56th St Indianapolis  IN ,,,True
+4315 S 6th St Klamath Falls  OR ,42.2200833,-121.7747593,False
+10800 N Beach St Fort Worth  TX ,32.9300436,-97.2869221,False
+700 S Main St Keller  TX ,32.9291454,-97.2539578,False
+16400 Rockside Rd Maple Heights  OH ,41.402101,-81.566391020202,False
+25300 Aurora Rd Bedford Heights  OH ,41.409875,-81.500032,False
+5800 S 6th St Klamath Falls  OR ,42.2200833,-121.7747593,False
+2104 S 6th St Klamath Falls  OR ,42.2200833,-121.7747593,False
+4449 Homedale Rd Klamath Falls  OR ,42.1853617115032,-121.722594,False
+5014 Dixie Rd Mississauga  ON ,43.5944213,-79.5653887,False
+1520 Courtneypark Dr E Mississauga  ON ,43.663714,-79.657762,False
+1553 Shawson Dr Mississauga  ON ,43.6573854,-79.6654566,False
+106 W North Ave Carol Stream  IL ,,,True
+3400 West End Ave Nashville  TN ,36.139308,-86.81928,False
+1851 SC-14 E Landrum  SC ,35.180997,-82.161441,False
+13030 Brookpark Rd Cleveland  OH ,41.419023,-81.8359853,False
+7201 N Cicero Ave Lincolnwood  IL ,42.011893,-87.747845,False
+3817 US-97N Klamath Falls  OR ,,,True
+4900 Ulmerton Rd Clearwater  FL ,27.8947448,-82.7703795,False
+24086 US-19 N Clearwater  FL ,,,True
+17218 US-19 N Clearwater  FL ,,,True
+3402 N Keystone Ave Indianapolis  IN ,39.809747,-86.121592,False
+6805 N Hanley Rd Berkeley  MO ,38.7644934705882,-90.3367060588235,False
+2055 W Grand River Ave Okemos  MI ,,,True
+975 Rochester Rd S Rochester Hills  MI ,,,True
+3985 W Auburn Rd Rochester Hills  MI ,42.6337913,-83.20951,False
+2850 Auburn Rd Auburn Hills  MI ,42.6333278827851,-83.2310222621544,False
+3995 Auburn Rd Auburn Hills  MI ,42.633932,-83.20972,False
+3195 South Blvd Auburn Hills  MI ,42.6206491621622,-83.2264346216216,False
+5909 Howdershell Rd Hazelwood  MO ,38.7823346660201,-90.3839327190983,False
+11201 Old Saint Charles Rd Bridgeton  MO ,38.732555,-90.40594,False
+1401 Matheson Blvd E Mississauga  ON ,43.6313565,-79.6452795,False
+4400 O St Lincoln  NE ,40.824424,-96.658371,False
+715 S Saddle Creek Rd Omaha  NE ,41.247893,-95.988454,False
+5764 W 130th St Brook Park  OH ,41.4054562369942,-81.7842780231214,False
+30805 Detroit Rd Westlake  OH ,41.4608579642857,-81.960761,False
+13767 Saint Charles Rock Rd Bridgeton  MO ,38.781858,-90.4682573333333,False
+10248 Big Bend Blvd Crestwood  MO ,38.5724183,-90.3821878,False
+19400 Hilliard Blvd Rocky River  OH ,41.471085,-81.837982,False
+1600 Rosemont Ave Frederick  MD ,39.426862,-77.430939,False
+23425 Lorain Rd North Olmsted  OH ,41.4338634328358,-81.8810622686567,False
+6011 W Central Ave Wichita  KS ,37.6944854,-97.4098027,False
+25466 Detroit Rd Westlake  OH ,41.463699,-81.9510634,False
+5508 Madison Ave Indianapolis  IN ,39.7222417,-86.1501797,False
+361 Amherst St Nashua  NH ,42.7836226,-71.5043354583607,False
+620 Amherst St Nashua  NH ,42.80090435,-71.5380222969108,False
+75 Nashua Rd Amherst  NH ,42.8022488,-71.539265,False
+610 N Germantown Pkwy Cordova  TN ,,,True
+1010 S Rochester Rd Rochester Hills  MI ,42.666172,-83.133286,False
+3093 W Henrietta Rd Henrietta  NY ,43.08966205,-77.6357205239255,False
+2980 Walton Blvd Rochester Hills  MI ,42.6803948721011,-83.1917687296317,False
+2255 Crooks Rd Rochester Hills  MI ,42.6462394255319,-83.1707997021277,False
+7152 Pacific St Omaha  NE ,41.2487792,-96.0162104,False
+3521 Gateway St Springfield  OR ,44.0845691,-123.041133400596,False
+2249 Huntington Dr Duarte  CA ,34.1396286,-117.9644009,False
+110 S High Cross Rd Urbana  IL ,40.1172258270986,-88.1625332998299,False
+1775 Marketplace Dr Henrietta  NY ,43.07883275,-77.6282863745334,False
+1812 W Jefferson St Joliet  IL ,41.5223877536939,-88.1306546383245,False
+1200 Marketplace Dr Henrietta  NY ,43.08065,-77.6226756283385,False
+5201 N Keystone Ave Indianapolis  IN ,39.809747,-86.121592,False
+7000 Auburn Blvd Citrus Heights  CA ,38.6910829716981,-121.300290471698,False
+277 S Ridge Rd Wichita  KS ,37.6788705,-97.4260539,False
+1045 Graham Rd Stow  OH ,41.1632658979533,-81.4760566875622,False
+1230 S Rangeline Rd Carmel  IN ,,,True
+7735 E OH-37 Sunbury  OH ,,,True
+504 W Olympic Blvd Los Angeles  CA ,34.0430344,-118.2610421,False
+3411 Mavis Rd Mississauga  ON ,43.5748542,-79.6447828,False
+3020 Mavis Rd Mississauga  ON ,43.566352575,-79.633685575,False
+4627 Sharon Rd Charlotte  NC ,35.1490759475149,-80.8304208135514,False
+5025 Tuttle Crossing Blvd Dublin  OH ,40.07593295,-83.1286311674506,False
+5281 Library Rd Bethel Park  PA ,40.3524275,-80.0294229081513,False
+2250 Cliff Rd Eagan  MN ,44.7896129,-93.2255783,False
+1923 E Michigan Ave Lansing  MI ,42.7340065,-84.5228774,False
+11453 Valley Blvd El Monte  CA ,34.0688836,-118.0280837,False
+4 N Baldwin Ave Sierra Madre  CA ,34.1620337777778,-118.052573444444,False
+914 Foothill Blvd La Verne  CA ,34.121414487332,-117.789042069392,False
+1602 S Myrtle Ave Monrovia  CA ,34.1340944489796,-118.000709061224,False
+1120 Foothill Blvd La Verne  CA ,34.119101,-117.782719,False
+4131 OLD WOODLAWN RD LINCOLN  NE ,,,True
+1880 SC-14 E Landrum  SC ,35.182158,-82.1585798004032,False
+871 W San Bernardino Rd Covina  CA ,34.0891653236759,-117.906902081732,False
+1145 Crocker Rd Westlake  OH ,41.470671,-81.950599,False
+35804 Detroit Rd Avon  OH ,41.4598181,-82.0115282318061,False
+25525 Center Ridge Rd Westlake  OH ,41.4486978,-81.9240699,False
+1511 Warren Rd Lakewood  OH ,41.48215495,-81.7994143287533,False
+100 N Azusa Ave Azusa  CA ,34.121497,-117.90741,False
+106 S Azusa Ave Azusa  CA ,,,True
+8410 Dorchester Rd North Charleston  SC ,32.9145255,-80.108673,False
+2985 Ashley Phosphate Rd North Charleston  SC ,32.9313287540294,-80.059566755779,False
+14001 Lakewood Heights Blvd Cleveland  OH ,41.470206,-81.789849,False
+110 W Arrow Hwy Covina  CA ,34.1065247090502,-117.88131534917,False
+246 N Citrus Ave West Covina  CA ,,,True
+245 N Azusa Ave West Covina  CA ,34.0746779843601,-117.9078133288,False
+300 N Azusa Ave West Covina  CA ,34.075628,-117.907621,False
+902 E Huntington Dr Duarte  CA ,34.1393772845023,-117.98610912104,False
+5675 N Rosemead Blvd Temple City  CA ,34.102849,-118.073572,False
+4126 E Live Oak Ave Arcadia  CA ,,,True
+5035 W Touhy Ave Skokie  IL ,42.0118793,-87.7530567,False
+2497 John Hawkins Pkwy Hoover  AL ,33.356084,-86.849468,False
+5423 US-280 Lake Purdy  AL ,33.4176184230769,-86.6689118076923,False
+2320 University Blvd Birmingham  AL ,33.5088905,-86.7905332,False
+1801 Lander Ave Turlock  CA ,37.4774659487179,-120.84908,False
+2406 W Monte Vista Ave Turlock  CA ,37.5217267213115,-120.876985557377,False
+150 E Monte Vista Ave Turlock  CA ,37.521871716763,-120.846644867052,False
+2901 Geer Rd Turlock  CA ,37.5196358,-120.849263297994,False
+4700 N Golden State Blvd Turlock  CA ,37.5336402649291,-120.888402086238,False
+6001 N Golden State Blvd Turlock  CA ,37.548662,-120.901822,False
+1250 East Ave Turlock  CA ,37.4926246486487,-120.837879432432,False
+805 E Main St Turlock  CA ,37.4993843913044,-120.839510695652,False
+809 Columbus Ave Marysville  OH ,40.2347332963491,-83.3555179533193,False
+101 N Cherry St Marysville  OH ,40.235964,-83.356709,False
+1301 W 5th St Marysville  OH ,40.2412081666667,-83.3903645833333,False
+303 E 5th St Marysville  OH ,40.2361071836735,-83.3633720204082,False
+4005 Washtenaw Ave Ann Arbor  MI ,42.2577525,-83.7006205,False
+2679 Ann Arbor-Saline Rd Ann Arbor  MI ,42.2480338885912,-83.7601609691268,False
+341 E Main St Ripon  CA ,37.739387,-121.118132,False
+2101 Tully Rd Modesto  CA ,37.6739729331767,-121.012390474555,False
+1088 N Citrus Ave Covina  CA ,34.0992466749405,-117.890090233123,False
+2033 Standiford Ave Modesto  CA ,37.6896192559553,-121.029829803316,False
+2924 McHenry Ave Modesto  CA ,37.6810947272727,-120.994067777778,False
+1233 Standiford Ave Modesto  CA ,37.6894161228861,-121.011238335822,False
+909 N Citrus Ave Covina  CA ,34.0959877936809,-117.890282058582,False
+1406 Yankee Doodle Rd Eagan  MN ,44.833438,-93.165232,False
+37 W 38th St Indianapolis  IN ,39.824845,-86.158198,False
+2601 N Figueroa St Los Angeles  CA ,34.083979,-118.222395,False
+4414 W Maple St Wichita  KS ,37.6803028686869,-97.3942629191919,False
+1117 Maple Ave Lisle  IL ,41.7864726595735,-88.073969528886,False
+4720 Andrew Jackson Pkwy Hermitage  TN ,36.2157562470059,-86.5977690987676,False
+1659 W Grand River Ave Okemos  MI ,,,True
+8998 SC-11 Campobello  SC ,35.124353,-82.138901,False
+6901 Howdershell Rd Hazelwood  MO ,38.789642,-90.374963,False
+4200 Kirchoff Rd Rolling Meadows  IL ,42.083407,-88.032776,False
+4511 San Juan Ave Jacksonville  FL ,30.2822663333172,-81.7209787341467,False
+145 N Azusa Ave Azusa  CA ,34.123547,-117.907684,False
+101 N Azusa Ave Azusa  CA ,34.121743,-117.90761,False
+1195 W Foothill Blvd Azusa  CA ,34.1336477419355,-117.924689645161,False
+901 E Gladstone St Azusa  CA ,34.1142545,-117.8996501,False
+2001 Ogden Ave Lisle  IL ,41.8013007,-88.066742,False
+7745 Reynolds Rd Mentor  OH ,41.6590713763798,-81.3776068058512,False
+7600 W US-30 Frankfort  IL ,,,True
+5099 Tuttle Crossing Blvd Dublin  OH ,40.07559365,-83.1311646536848,False
+5870 Sawmill Rd Columbus  OH ,40.0870007171222,-83.0918746983834,False
+11444 Saint Charles Rock Rd Bridgeton  MO ,38.7411882514594,-90.4053815247849,False
+12700 Saint Charles Rock Rd Bridgeton  MO ,38.7602975074225,-90.435555050727,False
+400 N Victory Blvd Burbank  CA ,34.177581,-118.318333,False
+6174 York Blvd Highland Park  CA ,34.115792,-118.184788,False
+9010 Broadway Temple City  CA ,34.0989411875,-118.0729843125,False
+3101 Scranton Rd Cleveland  OH ,41.469826,-81.696859,False
+105 E Arrow Hwy San Dimas  CA ,34.1030438282597,-117.806883736416,False
+102 E Arrow Hwy San Dimas  CA ,34.102879,-117.806925847707,False
+1115 W Arrow Hwy San Dimas  CA ,34.1066673280083,-117.82932551762,False
+1110 W Gladstone St San Dimas  CA ,34.1139288,-117.8339032,False
+9620 Asheville Hwy Inman  SC ,35.0427872,-82.0917654,False
+9580 Asheville Hwy Inman  SC ,35.0427872,-82.0917654,False
+710 W Main St Anoka  MN ,45.2077589591837,-93.4060451428572,False
+3051 Countryside Dr Turlock  CA ,37.5209097,-120.883508224046,False
+9215 SE Powell Blvd Portland  OR ,45.49760985,-122.568054498541,False
+1400 US-9 S Old Bridge  NJ ,,,True
+30550 Stephenson Hwy Madison Heights  MI ,42.516459612138,-83.1195034626862,False
+201 W 38th St Indianapolis  IN ,39.824811,-86.161739,False
+1790 Ernest Ave London  ON ,42.9423396,-81.236508,False
+2380 W Co Rd D Roseville  MN ,45.035801,-93.141863,False
+845 W Arrow Hwy San Dimas  CA ,34.1067048181818,-117.824198272727,False
+9300 Zane Ave N Brooklyn Park  MN ,45.123314,-93.356212,False
+4830 W 38th St Indianapolis  IN ,39.8247937,-86.1603907,False
+3437 Lafayette Rd Indianapolis  IN ,,,True
+304 S Emerson Ave Indianapolis  IN ,39.6933942,-86.0824761,False
+4221 S Emerson Ave Indianapolis  IN ,39.6933942,-86.0824761,False
+6345 Oakdale Rd Riverbank  CA ,37.7321471351351,-120.958773,False
+2201 Patterson Rd Riverbank  CA ,37.732756,-120.958526,False
+6004 Turney Rd Garfield Heights  OH ,41.409316,-81.600409,False
+260 N Yosemite Ave Oakdale  CA ,37.7684509591837,-120.84836155102,False
+977 S Yosemite Ave Oakdale  CA ,37.7560840827517,-120.840024645206,False
+1149 W F St Oakdale  CA ,37.7612665773196,-120.859448257732,False
+449 W F St Oakdale  CA ,37.7639551428571,-120.853214183673,False
+1200 E F St Oakdale  CA ,37.769986,-120.838183,False
+1590 E F St Oakdale  CA ,37.7737206938776,-120.828614428571,False
+12828 Yosemite Blvd Waterford  CA ,37.6384063992371,-120.759053052876,False
+12237 Bentley St Waterford  CA ,37.638375,-120.765108326531,False
+12405 Yosemite Blvd Waterford  CA ,37.638322244898,-120.763933795918,False
+12070 Yosemite Blvd Waterford  CA ,37.6381175959596,-120.772595656566,False
+511 Lander Ave Turlock  CA ,37.4880944117647,-120.849089117647,False
+2955 N Tegner Rd Turlock  CA ,37.5294644,-120.8851719,False
+6943 Maze Blvd Modesto  CA ,37.6386455,-121.0180421,False
+4272 Main St Denair  CA ,37.523341,-120.800853323232,False
+1442 Colony Dr Ripon  CA ,,,True
+1022 S Frontage Rd Ripon  CA ,,,True
+1201 S 7th St Modesto  CA ,37.6291259,-120.9943273,False
+1553 Colony Rd Ripon  CA ,37.7552399,-121.1415517,False
+1501 N Jack Tone Rd Ripon  CA ,37.761087,-121.142644,False
+21100 Kenrick Ave Lakeville  MN ,44.64347805,-93.2926077,False
+1725 NW 86th St Clive  IA ,41.6072066,-93.7355594751014,False
+N87W17245 Main St Menomonee Falls  WI ,43.1777025,-88.123892,False
+2201 Senter Rd San Jose  CA ,37.3099179,-121.852150936672,False
+150 Lawrence Station Rd Sunnyvale  CA ,37.3725147,-121.9950715,False
+12743 Atlantic Blvd Jacksonville  FL ,30.3179160734882,-81.4782108003371,False
+9715 Atlantic Blvd Jacksonville  FL ,30.3217519386651,-81.5474855109437,False
+2216 Co Rd D Roseville  MN ,,,True
+9098 Asheville Hwy Spartanburg  SC ,35.016082,-82.0202084978128,False
+8671 Asheville Hwy Boiling Springs   SC ,,,True
+8700 Asheville Hwy Boiling Springs   SC ,,,True
+1697 Boiling Springs Rd Boiling Springs  SC ,33.1229953565448,-81.3701521918186,False
+3452 Pittsburgh Rd Perryopolis  PA ,,,True
+340 Curry Hollow Rd Baldwin  PA ,40.3365326,-79.9786007,False
+5660 Brownsville Rd South Park  PA ,40.30731795,-79.9969699277385,False
+6725 Perimeter Loop Dr Dublin  OH ,,,True
+2468 3rd St Hughson  CA ,37.5953595,-120.866504875,False
+708 W F St Oakdale  CA ,37.7630206530612,-120.85579555102,False
+630 E F St Oakdale  CA ,37.767991,-120.844074673469,False
+1505 E F St Oakdale  CA ,37.7724777,-120.8306762068,False
+2772 Patterson Rd Riverbank  CA ,37.7326228584872,-120.946296326965,False
+1821 Mitchell Rd Ceres  CA ,37.6030929932886,-120.938827214765,False
+2707 Patterson Rd Riverbank  CA ,37.7327863409161,-120.946823539151,False
+1517 Morgan Rd Modesto  CA ,37.6086703540201,-120.977607266145,False
+2600 Coffee Rd Modesto  CA ,37.678161,-120.975719,False
+320 N 2nd St Patterson  CA ,37.4758445918367,-121.131539285714,False
+1400 Coffee Rd Modesto  CA ,37.663662,-120.975563,False
+13996 W National Ave New Berlin  WI ,42.9858126898162,-88.0882892036273,False
+3103 Atchison St Riverbank  CA ,37.7380489591837,-120.938767795918,False
+9080 SC-11 Campobello  SC ,35.124353,-82.138901,False
+110 La Loma Ave Modesto  CA ,37.6441602905593,-120.988450209274,False
+1211 Knox Ave North Augusta  SC ,33.49766,-81.9601174,False
+8710 Glenwood Ave Raleigh  NC ,35.792539,-78.646847,False
+2831 Bayview Ave Toronto  ON ,43.766433,-79.3874714,False
+24849 Rockside Rd Bedford Heights  OH ,41.4095811514204,-81.5035814692125,False
+5410 Campbells Run Rd Robinson  PA ,40.4328219374917,-80.139096887335,False
+190 Amherst St Nashua  NH ,42.77498,-71.4900923950076,False
+826 W 66th St Richfield  MN ,44.8833324,-93.29077215,False
+337 Main St Nashua  NH ,42.7497812,-71.4608653150303,False
+242 Daniel Webster Hwy Nashua  NH ,42.7100748,-71.4412789,False
+1291 N Madison Ave Greenwood  IN ,39.6320424736842,-86.1158280526316,False
+11900 Atlantic Blvd Jacksonville  FL ,30.317168,-81.49188,False
+1580 W Main St Ripon  CA ,37.7394142653061,-121.141010081633,False
+334 E Main St Ripon  CA ,37.739387,-121.118132,False
+101 E Las Palmas Ave Patterson  CA ,37.4733469495437,-121.126407394926,False
+511 S 2nd St Patterson  CA ,37.4662448926174,-121.124826006711,False
+691 N Pine St Spartanburg  SC ,34.961108,-81.925943,False
+15060 Rogers Rd Patterson  CA ,37.4678467,-121.17706,False
+115 S Del Puerto Ave Patterson  CA ,37.4695165714286,-121.130720428571,False
+226 N 2nd St Patterson  CA ,37.4747574693878,-121.130760489796,False
+750 N St Newman  CA ,37.32226225,-121.023381402478,False
+1459 N St Newman  CA ,37.3137956,-121.020954363449,False
+10000 Crows Landing Rd Crows Landing  CA ,37.4036656,-121.0393261,False
+22025 CA-33 Crows Landing  CA ,37.3933047755102,-121.071876387755,False
+8540 Blondo St Omaha  NE ,41.2775311,-96.1642003,False
+10202 Maple St Omaha  NE ,41.2860392,-96.07283765,False
+8401 Lyndale Ave S Bloomington  MN ,44.851431,-93.288407,False
+7901 Nicollet Ave S Bloomington  MN ,44.8614746,-93.2782879,False
+200 W American Blvd Bloomington  MN ,,,True
+9000 Lyndale Ave S Bloomington  MN ,44.8402913,-93.2892942,False
+2558 E Jolly Rd Lansing  MI ,42.6823521,-84.512773176658,False
+2501 Jackson Ave Escalon  CA ,37.794188,-120.983916,False
+1097 Yosemite Ave Escalon  CA ,37.7983926919257,-120.999108035109,False
+1405 California St Escalon  CA ,37.7967259054594,-120.99542955246,False
+4000 E Briggsmore Ave Modesto  CA ,37.666911,-120.971254,False
+1202 Geer Rd Turlock  CA ,37.5058678383838,-120.848777010101,False
+1728 Oakdale Rd Modesto  CA ,37.66918975,-120.957191424219,False
+1400 McHenry Ave Modesto  CA ,37.663789,-120.993818,False
+3300 McHenry Ave Modesto  CA ,37.685572,-120.994135,False
+2101 W Rumble Rd Modesto  CA ,37.681975,-121.031581,False
+3037 Sisk Rd Modesto  CA ,37.6827489866189,-121.049861035858,False
+2201 McHenry Ave Modesto  CA ,37.675097,-120.99419,False
+2099 W Orangeburg Ave Modesto  CA ,37.667614,-121.030059,False
+2512 Coffee Rd Modesto  CA ,37.6773208107275,-120.975702107354,False
+2013 Prescott Rd Modesto  CA ,37.674090295302,-121.03138738255,False
+1701 Standiford Ave Modesto  CA ,37.689524,-121.022564,False
+1704 S 72nd St Omaha  NE ,41.2211681,-96.0239814,False
+2805 Earl St Modesto  CA ,37.6763601666667,-121.044397,False
+4720 Hamilton St Omaha  NE ,41.2719813,-95.9500883,False
+1649 W Orangeburg Ave Modesto  CA ,37.6642136122449,-121.020653959184,False
+3459 McHenry Ave Modesto  CA ,37.6882791414141,-120.99438110101,False
+107 S 40th St Omaha  NE ,41.214319,-95.973155,False
+704 Kingston Rd Pickering  ON ,43.8061156,-79.1344756,False
+1735 Pickering Pkwy Pickering  ON ,43.8337677,-79.0881444,False
+463 Wellington Rd S London  ON ,42.8998687,-81.2051695,False
+2970 W Henrietta Rd Henrietta  NY ,43.092526875,-77.634007875,False
+417 Monroe Ave Rochester  NY ,43.1474764814815,-77.5955065555555,False
+700 Turney Rd Bedford  OH ,41.392644,-81.573868,False
+25500 Miles Rd Warrensville Heights  OH ,41.424166,-81.497766,False
+595 S Galleria Way Chandler  AZ ,33.2948455,-111.8985309,False
+5635 Hadley Ave N Oakdale  MN ,45.0312382,-92.9682852,False
+2251 Century Dr West Mifflin  PA ,40.3434041,-79.9428108,False
+14805 S Cicero Ave Midlothian  IL ,,,True
+6045 L St Omaha  NE ,41.2122431,-95.9637639,False
+8821 Brier Creek Pkwy Raleigh  NC ,35.902900042675,-78.7888567192633,False
+12547 Riverdale Blvd NW Coon Rapids  MN ,45.198486,-93.350128,False
+1020 19th Ave N Fargo  ND ,46.9047101836735,-96.793769244898,False
+17212 Lorain Ave Cleveland  OH ,41.4867403,-81.6976004,False
+1541 Crows Landing Rd Modesto  CA ,37.6080958480191,-120.993420099434,False
+3420 W Monte Vista Ave Turlock  CA ,37.5218278918919,-120.887166324324,False
+10143 Grayson Rd Grayson  CA ,37.5584434337349,-121.180816951807,False
+1225 N Carpenter Rd Modesto  CA ,37.6521356464646,-121.031097969697,False
+2725 W Monte Vista Ave Turlock  CA ,37.5219890884354,-120.884066707483,False
+100 E Glenwood Ave Turlock  CA ,37.475561,-120.848894,False
+4530 Kiernan Ave Salida  CA ,37.7106349,-121.0788638,False
+4537 Broadway Ave Salida  CA ,37.7070185454545,-121.083724939394,False
+7948 Yosemite Blvd Empire  CA ,37.6386421610738,-120.848721778523,False
+4805 Yosemite Blvd Empire  CA ,37.6383335454546,-120.906667363636,False
+2507 N 9th St Ceres  CA ,,,True
+1445 W Elliot Rd Tempe  AZ ,33.3470401,-111.9610634,False
+1415 N Arizona Ave Gilbert  AZ ,,,True
+15555 W Beloit Rd New Berlin  WI ,42.9561547465248,-88.108094894929,False
+5 W Foothill Blvd Arcadia  CA ,34.1502555,-118.0683509,False
+1250 Huntington Dr Duarte  CA ,34.1396286,-117.9644009,False
+502 N Harper St Laurens  SC ,34.5064328371333,-82.0085713911758,False
+903 5th St Modesto  CA ,37.636470755102,-121.004626020408,False
+1300 N Carpenter Rd Modesto  CA ,37.653353,-121.030923,False
+815 Kansas Ave Modesto  CA ,37.6460617070707,-121.019071020202,False
+1640 N Carpenter Rd Modesto  CA ,37.6597757295038,-121.031008679832,False
+706 Sutter Ave Modesto  CA ,37.620361,-121.011848244898,False
+901 Paradise Rd Modesto  CA ,37.609002,-121.094093,False
+818 N Carpenter Rd Modesto  CA ,37.6496874840764,-121.030818146497,False
+1521 N Carpenter Rd Modesto  CA ,37.6571913848846,-121.031171804658,False
+937 Paradise Rd Modesto  CA ,37.609002,-121.094093,False
+1501 Paradise Rd Modesto  CA ,37.609002,-121.094093,False
+1010 E CR-E Vadnais Heights  MN ,,,True
+150 N Riverside Dr Modesto  CA ,37.6401874545455,-120.947961,False
+1200 6th St Modesto  CA ,37.639712,-121.006413,False
+3001 Yosemite Blvd Modesto  CA ,37.63825,-120.938811,False
+801 7th St Modesto  CA ,37.636476,-121.00103,False
+2549 Yosemite Blvd Modesto  CA ,37.638245431158,-120.949291005858,False
+1432 9th St Modesto  CA ,37.6439966326531,-121.006110142857,False
+1109 Oakdale Rd Modesto  CA ,37.662185,-120.95761,False
+2101 Sylvan Ave Modesto  CA ,37.6890435252525,-120.959091464646,False
+3460 Oakdale Rd Modesto  CA ,37.6884894,-120.95715215,False
+145 N Santa Cruz Ave Modesto  CA ,37.6392402325581,-120.974291976744,False
+900 W Duarte Rd Arcadia  CA ,34.1312549,-118.0191855,False
+12885 SW Pacific Hwy Tigard  OR ,45.426895,-122.7787878,False
+3555 Washtenaw Ave Ann Arbor  MI ,42.25580035,-83.6884991981575,False
+747 S Opdyke Rd Auburn Hills  MI ,42.6253955201005,-83.2491136959799,False
+2501 Oakdale Rd Modesto  CA ,37.676890173913,-120.957831956522,False
+1510 Miller Ave Modesto  CA ,37.6400045918367,-120.971771183673,False
+3621 Yosemite Blvd Modesto  CA ,37.6383362401582,-120.927932729042,False
+3800 McHenry Ave Modesto  CA ,37.693303,-120.994259,False
+3801 Pelandale Ave Modesto  CA ,37.700362,-121.040774,False
+4120 Dale Rd Modesto  CA ,37.6988075199689,-121.049923581404,False
+3900 Pelandale Ave Modesto  CA ,37.6985445,-121.0676224,False
+1600 Sisk Rd Modesto  CA ,37.6681028887032,-121.034248186639,False
+1500 Crows Landing Rd Modesto  CA ,37.609306,-120.993504,False
+904 E Hatch Rd Modesto  CA ,,,True
+1626 Crows Landing Rd Modesto  CA ,37.6070543673469,-120.993423040816,False
+800 W Hatch Rd Modesto  CA ,37.608388,-121.004277,False
+2001 Crows Landing Rd Modesto  CA ,37.600631,-120.99362,False
+3936 Mitchell Rd Ceres  CA ,37.5810386965843,-120.938614,False
+2301 Fairview Dr Ceres  CA ,37.595582,-120.968465,False
+2954 E Whitmore Ave Ceres  CA ,37.5946429,-120.9592828,False
+2080 E Whitmore Ave Ceres  CA ,37.5946429,-120.9592828,False
+1501 Herndon Rd Ceres  CA ,37.609156,-120.974317,False
+3021 4th St Ceres  CA ,37.5898805306122,-120.953439795918,False
+1570 East Ave Turlock  CA ,37.4925951621622,-120.832024432432,False
+750 Geer Rd Turlock  CA ,37.4998894489796,-120.84873644898,False
+881 N Golden State Blvd Turlock  CA ,37.5009427674419,-120.851633232558,False
+210 N Golden State Blvd Turlock  CA ,37.4981075657967,-120.848434482943,False
+2219 Lander Ave Turlock  CA ,37.4727986756757,-120.84909,False
+1600 W Main St Turlock  CA ,37.492656,-120.867489,False
+110 West O St Lincoln  NE ,40.8135566577181,-96.721095942953,False
+1405 N Golden State Blvd Turlock  CA ,37.5063761433137,-120.859933243103,False
+2015 W Main St Turlock  CA ,37.4928147889447,-120.872033743719,False
+475 N Nelson Rd New Lenox  IL ,41.4933703752759,-87.984502027204,False
+201 W Main St Westfield  IN ,41.9186896823954,-77.5421844936502,False
+3005 N Shadeland Ave Indianapolis  IN ,39.7885939,-86.0454335,False
+1917 Ogden Ave Lisle  IL ,41.8013007,-88.066742,False
+6790 Sawmill Rd Columbus  OH ,40.1050734285714,-83.0910851428571,False
+290 S Arroyo Pkwy Pasadena  CA ,34.140812,-118.1470466,False
+14000 E CA-88 Lockeford  CA ,38.1333298,-121.1647413,False
+15100 N Thornton Rd Lodi  CA ,38.0869922,-121.3702361,False
+24323 N CA-99 Acampo  CA ,,,True
+900 S Cherokee Ln Lodi  CA ,,,True
+8970 Duarte Rd San Gabriel  CA ,34.1210545,-118.0815481,False
+880 E Victor Rd Lodi  CA ,38.1374518709677,-121.256881516129,False
+101 E Las Tunas Dr San Gabriel  CA ,34.102882,-118.099824,False
+420 W Kettleman Ln Lodi  CA ,38.1155325,-121.2904311,False
+4415 Pacific Ave Stockton  CA ,37.98800965,-121.312202087164,False
+701 W Huntington Dr Arcadia  CA ,,,True
+2701 W March Ln Stockton  CA ,37.9851189,-121.345124217256,False
+4445 N Pershing Ave Stockton  CA ,37.98625345,-121.320898536181,False
+1206 E March Ln Stockton  CA ,38.00158935,-121.291046571886,False
+6445 Pacific Ave Stockton  CA ,38.0085726,-121.321254639724,False
+2808 Country Club Blvd Stockton  CA ,37.9623195,-121.337554714836,False
+9484 West Ln Stockton  CA ,38.0364589,-121.294461228871,False
+1799 Liverpool Rd Pickering  ON ,43.8338784,-79.0891445,False
+4407 E Waterloo Rd Stockton  CA ,,,True
+6731 Kingston Rd Toronto  ON ,43.7976073593316,-79.1479991927126,False
+2494 E Fremont St Stockton  CA ,37.9653279312197,-121.256338064878,False
+620 W Charter Way Stockton  CA ,37.9367799,-121.295652435596,False
+717 W 8th St Stockton  CA ,37.9265708770655,-121.296090099144,False
+6131 Pacific Ave Stockton  CA ,38.00587685,-121.319009101429,False
+2320 N El Dorado St Stockton  CA ,37.9739972382867,-121.29648997747,False
+713 N El Dorado St Stockton  CA ,37.9598663877551,-121.291840244898,False
+322 S Center St Stockton  CA ,37.951986,-121.290952,False
+642 N Hunter St Stockton  CA ,37.95979775,-121.289779653989,False
+1617 W Fremont St Stockton  CA ,37.9547083,-121.3139181,False
+6230 Pacific Ave Stockton  CA ,38.0067257317073,-121.318761463415,False
+4627 Da Vinci Dr Stockton  CA ,37.98403065,-121.340312714107,False
+4501 N Pershing Ave Stockton  CA ,37.9868539,-121.321299781587,False
+1612 W Hammer Ln Stockton  CA ,38.02075595,-121.333807191047,False
+9015 W Walnut Grove Rd Thornton  CA ,,,True
+1756 N Wilson Way Stockton  CA ,37.9732276059885,-121.276168911998,False
+671 N Cobb Pkwy Marietta  GA ,,,True
+645 Ernest W Barrett Pkwy NW Kennesaw  GA ,33.9921754,-84.5978414,False
+22727 Bothell Everett Hwy Bothell  WA ,47.79160585,-122.215360407218,False
+1701 E 116th St Carmel  IN ,39.956517,-86.126579,False
+513 -515 Warren Ave Portland  ME ,43.689745,-70.296202,False
+211 Lewiston Rd Topsham  ME ,43.9387169,-69.9735396,False
+111 Pleasant St Brunswick  ME ,43.9125851581465,-69.981092330979,False
+525 N Atlantic Blvd Alhambra  CA ,34.097932556701,-118.134762804124,False
+2601 Ticonderoga Dr Lincoln  NE ,40.859285,-96.683596,False
+702 E Huntington Dr Monrovia  CA ,,,True
+584 Oxford St W London  ON ,42.9835449726236,-81.2931366708723,False
+7270 W 10th St Indianapolis  IN ,39.781023,-86.163513,False
+920 N Green St Brownsburg  IN ,39.853295,-86.394194,False
+910 E Main St Brownsburg  IN ,39.834466,-86.374457,False
+5760 Crawfordsville Rd Indianapolis  IN ,,,True
+3748 N High School Rd Indianapolis  IN ,39.8151306,-86.2701342,False
+350 E Broad St Pataskala  OH ,40.0064561,-82.6637902,False
+400 N Fair Oaks Ave Pasadena  CA ,34.152605,-118.15043,False
+1813 E Colorado Blvd Pasadena  CA ,34.1461198,-118.0982427,False
+392 N Lake Ave Pasadena  CA ,34.15307285,-118.1323196,False
+3300 N West Ln Stockton  CA ,,,True
+2705 Country Club Blvd Stockton  CA ,37.9645607,-121.336632957324,False
+244 W Harding Way Stockton  CA ,37.9666439153709,-121.298371316353,False
+16 E Harding Way Stockton  CA ,37.9671299,-121.2946275,False
+3212 N California St Stockton  CA ,37.945655,-121.282419,False
+1403 Country Club Blvd Stockton  CA ,37.9695679,-121.3156684,False
+2375 W Grant Line Rd Tracy  CA ,37.7539409463087,-121.459715177852,False
+3725 N Tracy Blvd Tracy  CA ,,,True
+2005 Marconi Ave Sacramento  CA ,38.6198914444444,-121.419007222222,False
+3612 Broadway St Grove City  OH ,,,True
+2360 28th St SW Wyoming  MI ,42.9138468333333,-85.723974,False
+95 Main St Topsham  ME ,43.9352389449946,-69.9658097539754,False
+1910 Stringtown Rd Grove City  OH ,39.878372,-83.053436,False
+2 Green Rd South Charleston  WV ,38.323421,-81.7174887,False
+2704 Lake Lansing Rd Lansing  MI ,42.760674,-84.5131766,False
+208 N Magnolia Dr Tallahassee  FL ,30.4434232,-84.2619797,False
+5005 S 108th St Omaha  NE ,41.2091607796917,-96.0813308184379,False
+2 Chevy Dr East Syracuse  NY ,43.0600229686392,-76.0660694004322,False
+4212 S 84th St Omaha  NE ,41.2180442865202,-96.0432177396583,False
+5208 S 72nd St Ralston  NE ,41.1972989,-96.0238608,False
+2516 Southwest Blvd Grove City  OH ,39.8892828404325,-83.0694855862246,False
+16260 Kenrick Ave Lakeville  MN ,44.7132922,-93.2784433751902,False
+122 N Lake Ave Pasadena  CA ,34.1480764418605,-118.132275976744,False
+3100 E Colorado Blvd Pasadena  CA ,34.1461198,-118.0982427,False
+1400 E Colorado Blvd Pasadena  CA ,34.1461198,-118.0982427,False
+1001 Lebanon Rd West Mifflin  PA ,40.3613322286591,-79.9325420791885,False
+251 Curry Hollow Rd Pleasant Hills  PA ,40.3365231534126,-79.9710252446052,False
+72 N IN-135 Greenwood  IN ,,,True
+10301 Brookpark Rd Parma  OH ,41.418411,-81.75797,False
+1010 Glenbrook Way Hendersonville  TN ,36.3335746800509,-86.6195280878115,False
+1515 Robinson Rd Old Hickory  TN ,36.2555249459478,-86.6533987271988,False
+2716 E Colorado Blvd Pasadena  CA ,34.1461198,-118.0982427,False
+2600 East Beltline Ave SE Grand Rapids  MI ,42.931605,-85.5845134,False
+301 W Butterfield Rd Elmhurst  IL ,41.8651423,-87.9503018,False
+1379 Town Centre Dr Eagan  MN ,44.8291805612741,-93.1654438453037,False
+445 E Walnut St Pasadena  CA ,34.1496296967215,-118.1408654507,False
+3706 E Foothill Blvd Pasadena  CA ,,,True
+1401 E Colorado St Glendale  CA ,34.142854,-118.233895,False
+1355 N Green St Brownsburg  IN ,39.853295,-86.394194,False
+8695 Veterans Memorial Pkwy O'Fallon  MO ,38.8007169,-90.6997807,False
+4501 CR-K O'Fallon  MO ,,,True
+2487 Stringtown Rd Grove City  OH ,39.8810487747574,-83.0690610636919,False
+1655 N Main St Fuquay-Varina  NC ,35.596596,-78.75988,False
+5717 MacCorkle Ave SE Kanawha City  WV ,,,True
+9515 149th St Edmonton  AB ,,,True
+9611 Allisonville Rd Fishers  IN ,39.963662,-86.0375853,False
+600 Snelling Ave N St Paul  MN ,44.9845322,-93.1669256,False
+6200 W Kellogg St Wichita  KS ,37.6662103,-97.4572277,False
+1254 S Tyler Rd Wichita  KS ,37.671024,-97.443951,False
+4801 Thornton Rd Raleigh  NC ,35.89908395,-78.5573254513948,False
+1186 Edgefield Rd North Augusta  SC ,,,True
+461 N Altadena Dr Pasadena  CA ,34.1539010693046,-118.098641600531,False
+4856 W Slauson Ave Los Angeles  CA ,33.9876229,-118.369066,False
+300 S Atlantic Blvd Alhambra  CA ,34.087405,-118.134488,False
+2818 E Kalamazoo St Lansing  MI ,42.7298926326531,-84.5121309795918,False
+39 Bath Rd Brunswick  ME ,43.910461,-69.962386,False
+2600 W Valley Blvd Alhambra  CA ,34.076815,-118.151979,False
+3135 Broadway Grove City  OH ,39.9000733199469,-83.0787566121638,False
+5810 State Rd Parma  OH ,41.4045814,-81.710512,False
+3640 Glenwood Dr Eugene  OR ,44.0341815754722,-123.042217752959,False
