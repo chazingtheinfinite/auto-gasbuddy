@@ -9,9 +9,10 @@ from geopy.extra.rate_limiter import RateLimiter
 VERBOSE = True
 CURRPATH = os.path.abspath(os.path.dirname(__file__))
 IN_PATH = os.path.join(CURRPATH, '../data/station-coords/allgas-coords.csv')
-OUT_FILE = os.path.join(CURRPATH, '../data/station-coords/gasBuddy-geocode.csv')
+OUT_FILE = os.path.join(CURRPATH, '../data/station-coords/allgas-geocode.csv')
+STATES = os.path.join(CURRPATH, '../data/states.csv')
 
-def geocode_addr(in_path, type, start, geo_coords):    
+def geocode_addr(in_path, type, start, end, geo_coords):    
     """ geocode_addr
         Input:  
             <str>   in_path, relative path to data file
@@ -23,14 +24,14 @@ def geocode_addr(in_path, type, start, geo_coords):
             <df> geo_coords, geocode of gas stations in format: 
                 address <str> lat <str> lon <str> failed <bool> 
     """
-    with open(in_path) as file:
+    with open(in_path, encoding='utf8') as file:
         addressFile = list(csv.reader(file))
 
     geolocator = Nominatim(user_agent='autoGasBuddy')
     geocode = RateLimiter(geolocator.geocode, min_delay_seconds=2)
     index = 1 if type == 'AG' else 3
 
-    for line in range(start, len(addressFile)):
+    for line in range(start, end):
         address = addressFile[line][index]
         failed = False
         
@@ -41,7 +42,7 @@ def geocode_addr(in_path, type, start, geo_coords):
             lat, lon = location.raw['lat'], location.raw['lon']
             
             if VERBOSE: 
-                print("Current Location: {}".format(location))
+                #print("Current Location: {}".format(location))
                 print("Lat, Long: {}, {}".format(lat, lon))
         # log failed attempts
         else:
@@ -57,7 +58,7 @@ def geocode_addr(in_path, type, start, geo_coords):
                                         'failed':  failed},
                                         ignore_index = True)
     return geo_coords
-                    
+
 if os.path.exists(OUT_FILE):
     if VERBOSE: print("Appending...") 
 else:
@@ -67,7 +68,8 @@ else:
 geo_coords = pd.DataFrame(columns=['address', 'lat', 'lon', 'failed'])
 
 # convert addresses to geocode
-geo_coords = geocode_addr(IN_PATH, "GB", 0, geo_coords)
-geo_coords.to_csv(path_or_buf=OUT_FILE, mode='a', index=False)
+geo_coords = geocode_addr(IN_PATH, "AG", 0, 0, geo_coords)
+geo_coords.to_csv(path_or_buf=OUT_FILE, mode='a', index=False, header=False)
+
 
 
