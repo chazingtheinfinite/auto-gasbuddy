@@ -10,10 +10,6 @@ MAP_PATH = os.path.join(CURRPATH, '../data/tl_2017_us_state/tl_2017_us_state.shp
 IN_PATH = os.path.join(CURRPATH, '../data/station-coords/allgas-geocode-success.csv')
 STATES = os.path.join(CURRPATH, '../data/states.csv')
 
-# TODO: 
-# Update US plot with smaller transparent GSV Man-colored points
-# Update bar graph with uniform greyscale color
-
 # read files and convert to gpd
 us_map = gpd.read_file(MAP_PATH)
 station_data = pd.read_csv(IN_PATH, error_bad_lines=False, 
@@ -34,9 +30,9 @@ ax1.set_ylim([20, 50])
 ax1.axis('off')
 ax1.set_title('Gas Station Locations in US')
 us_map.plot(ax=ax1, color='white', edgecolor='black')
-station_data.plot(ax=ax1, markersize=5, color='red', marker = 'o')
+station_data.plot(ax=ax1, markersize=1, color='gray', marker = 'o', alpha='0.2')
 
 ax2 = fig.add_subplot(gs[2, :])
-ax2.set_title('Gas Station Location Bar Graph')
-station_data['state'].value_counts().plot(kind='bar', ax=ax2)
+ax2.set_title('Number of Mapped Gas Stations by State')
+station_data['state'].value_counts().plot(kind='bar', ax=ax2, color='gray')
 plt.show()
